@@ -5,13 +5,13 @@
 
 ---
 
-## 📌 Descripción del Proyecto
+##  Descripción del Proyecto
 
 Este proyecto es una aplicación web de **Control Escolar** desarrollada para la prueba técnica de reclutamiento de DigiPro. Permite gestionar alumnos, materias, asignaciones y realizar el cálculo automatizado del costo total de materias registradas mediante un procedimiento almacenado en SQL Server.
 
 ---
 
-## 🛠️ Características Principales
+## Características Principales
 
 1. **Validación de Inicio de Sesión (Regex):** 
    - Validación estricta para aceptar únicamente caracteres alfanuméricos (letras y números), rechazando símbolos o caracteres especiales.
@@ -28,7 +28,7 @@ Este proyecto es una aplicación web de **Control Escolar** desarrollada para la
 
 ---
 
-## 🗄️ Requisitos e Instalación de la Base de Datos
+## Requisitos e Instalación de la Base de Datos
 
 1. Abre tu gestor de base de datos **SQL Server Management Studio (SSMS)**.
 2. Localiza el archivo `ControlEscolar_Script.sql` que se encuentra en la raíz de este repositorio.
@@ -36,7 +36,7 @@ Este proyecto es una aplicación web de **Control Escolar** desarrollada para la
 
 ---
 
-## 🚀 Configuración y Ejecución de la API
+## Configuración y Ejecución de la API
 
 1. Abre la solución `.sln` en **Visual Studio**.
 2. Verifica la cadena de conexión en el archivo `appsettings.json`:
