@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "RZO50bLPm8URXedjngYIN57jW9+hcKvoiIKszYl4zss=",
+  "Source": "ControlEscolar_LuisMendoza",
+  "BasePath": "_content/ControlEscolar_LuisMendoza",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ControlEscolar_LuisMendoza\\wwwroot",
+      "Source": "ControlEscolar_LuisMendoza",
+      "ContentRoot": "C:\\Users\\luism\\source\\repos\\ControlEscolar_LuisMendoza\\wwwroot\\",
+      "BasePath": "_content/ControlEscolar_LuisMendoza",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\luism\\source\\repos\\ControlEscolar_LuisMendoza\\wwwroot\\index.html",
+      "SourceId": "ControlEscolar_LuisMendoza",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luism\\source\\repos\\ControlEscolar_LuisMendoza\\wwwroot\\",
+      "BasePath": "_content/ControlEscolar_LuisMendoza",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

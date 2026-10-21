@@ -1,0 +1,6 @@
+@ControlEscolar_LuisMendoza_HostAddress = http://localhost:5235
+
+GET {{ControlEscolar_LuisMendoza_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

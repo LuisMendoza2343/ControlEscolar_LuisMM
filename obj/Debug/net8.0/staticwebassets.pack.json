@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\luism\\source\\repos\\ControlEscolar_LuisMendoza\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ControlEscolar_LuisMendoza.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ControlEscolar_LuisMendoza.props",
+      "PackagePath": "build\\ControlEscolar_LuisMendoza.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ControlEscolar_LuisMendoza.props",
+      "PackagePath": "buildMultiTargeting\\ControlEscolar_LuisMendoza.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ControlEscolar_LuisMendoza.props",
+      "PackagePath": "buildTransitive\\ControlEscolar_LuisMendoza.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
